@@ -1,0 +1,48 @@
+body{
+    background-color: #DDD5C3;
+    color: black;
+    font-family:sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family:sans-serif;
+    background-color: #8c8b85;
+    border-bottom: 4px solid #605D55;
+}
+
+nav ul {
+    font-family: sans-serif;
+    font-size: 14px;
+    float: left;
+    position: absolute;
+    left: 33%;
+  }
+
+  nav li {
+    display: inline-block;
+  }
+
+  nav {
+    background-color:  #605D55;
+    height: 40px;
+  }
+
+  nav a {
+    background: #BFA770;
+    color: black;
+    padding: 12px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  footer{
+    background-color:  #605D55;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    float: left;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
